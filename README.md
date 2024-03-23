@@ -1,16 +1,44 @@
-# questionario_ghdss
+# Questionário de Gustavo  
 
-A new Flutter project.
+Apresento um aplicativo que permite a realização de questionários sobre suas cores, animais e professores favoritos. 
+O aplicativo exibirá o nível de pontuação com base nas respostas corretas fornecidas.
 
-## Getting Started
+## Conhecimentos Adquiridos nesse projeto 
 
-This project is a starting point for a Flutter application.
+Dentro do paradigma de programação orientada a objetos, é comum encontrar o conceito de funções aninhadas, que permitem a parametrização da funcionalidade dos métodos dentro de uma classe. 
+Essas funções dentro de funções possibilitam a definição de intervalos de chamadas dentro de conjuntos que englobam laços de repetição, estruturas condicionais, entre outros elementos.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-[Dart](https://dart.dev/guides) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-[Flutter](https://docs.flutter.dev/) 
+
+## Baixar e visualizar o Projeto 
+
+```bash 
+  
+  # fazer um git clone do projeto pelo terminal ou baixar e obter via winrar  
+  
+  $ Obter o Android Studio ou VsCode instalado na sua maquina
+  
+  $ Obter Java Jre e Jdk na versão 11.0 ou outras versões para ter o Android Instalado 
+  
+  $ Ativar o modulo desenvolvedor do Android no seu celular para testar o aplicativo 
+  
+```
+
+ ## Como executar o projeto no terminal ou vscode
+
+```bash
+    # clonar repositório
+    git clone https://github.com/ghdss26/ghdss_questionario.git
+
+    # entrar na pasta do projeto cdp
+    cd expenses 
+  
+    # executar o projeto
+    flutter run
+
+    Obs: Só siga esses passos, caso tenha o android Studio instalado e se for usuário linux 
+```
